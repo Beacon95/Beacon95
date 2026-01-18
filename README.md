@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Matt, I am 30 years old, and I am looking to hopefully build a career in software development
+My name is Matt, I am 30 years old, and I am looking to hopefully build a career in software development.
 
 Currently, I am working on diving into the courses over on Boot.Dev, in hopes of building a good foundation and learn new skills.
 
